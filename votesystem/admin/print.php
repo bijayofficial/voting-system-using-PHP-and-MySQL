@@ -1,4 +1,4 @@
-<?php
+ <?php
 	include 'includes/session.php';
 
 	function generateRow($conn){
